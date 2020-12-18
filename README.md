@@ -1,2 +1,2 @@
-# Random
-Random Projects of Multiple programming languages
+# Projects
+Projects in Multiple programming languages
