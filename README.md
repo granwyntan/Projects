@@ -1,2 +1,2 @@
 # Projects
-Projects in Multiple programming languages
+Projects in multiple programming languages
